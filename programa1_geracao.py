@@ -1,5 +1,4 @@
 from itertools import combinations
-import time
 
 U = set(range(1, 26))  # {1, 2, ..., 25}
 
